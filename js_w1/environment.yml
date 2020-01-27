@@ -1,0 +1,15 @@
+name: movie-ratings
+dependencies:
+  - ipython
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - psutil
+  # - python-pickle
+  - scipy
+  - pip
+  - pip:
+    # - gpflow==1.2.0
+    # - pickle_utils==0.1
+    # - absl-py==0.4.0
